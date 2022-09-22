@@ -18,7 +18,7 @@ contract DataTypes {
     int256 favoriteInt = -5;
 
     // address: address of metamask account
-    address myAddress = 0x2cB97F8D29B660A52DB552778F2ca8BF10e0307c;
+    address myAddress = 0x2cB97F8D29B660A52DB364778F2ca8BF10e0307c;
 
     // bytes: lower level types
     bytes32 favoriteBytes = "cat";
