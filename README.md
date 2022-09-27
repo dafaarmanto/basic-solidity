@@ -3,14 +3,19 @@
 
 Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 
-This repository cover topics such as:
+This repository cover basic topics such as:
 
 - Data Types
 - Functions
 - Array & Structs
 - Store Locations (Memory, calldata, and storage)
-
-
+- For Loop
+- Resetting an Array
+- Constructor
+- Modifiers
+- Immutable and Constant
+- Custom Errors
+- Receive and Fallback special function
 
 ## Remix IDE
 
